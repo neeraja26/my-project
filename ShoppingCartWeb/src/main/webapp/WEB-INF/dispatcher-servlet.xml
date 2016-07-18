@@ -17,6 +17,7 @@
 		<property name="prefix">
 			<value>/WEB-INF/views/jsp/</value>
 		</property>
+		
 		<property name="suffix">
 			<value>.jsp</value>
 		</property>
